@@ -17,7 +17,7 @@ This analytical framework audits two primary business ecosystems to identify str
 ### 🌐 Module A: Regional Sales Channels & Demand Vectors
 * **The Baseline:** Evaluates **274 physical units sold** across **4 geographic territories** (East, North, South, West), generating **$306,321** in aggregate revenue.
 * **Product Insights:**
-  * 📱 **Phones (The Core Driver):** Represents the highest-grossing category at **$97,588** (~32% of entire revenue pool), with dominant traction across the West ($39,418) and South ($24,228).
+  * 📱 **Phones (The Core Driver):** Represents the highest-grossing category at **$97,588** (32% of entire revenue pool), with dominant traction across the West ($39,418) and South ($24,228).
   * 💻⌨️ **Laptops & Keyboards:** Delivered steady baseline returns, pulling in **$48,174** and **$60,027** respectively.
   * 🖥️📁 **Monitors & Tablets (The Demand Bottleneck):** Lagged heavily behind other segments, combining for a restricted 16% share of total corporate sales. Additionally, an explicit information gap was flagged for Monitor sales in the North region.
 
