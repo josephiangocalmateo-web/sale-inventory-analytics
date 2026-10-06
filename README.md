@@ -51,7 +51,9 @@ This analytical framework audits two primary business ecosystems to identify str
 
 ## 🚀 3. Strategic Action Plan
 
-1. **Reconstruct TechSource Pricing Architecture:** Immediately renegotiate wholesale contract terms or raise the retail pricing floors for Product_2 and Product_4 to eliminate severe margin drains caused by negative markups.
-2. **Reallocate Capital to High-Margin Vendors:** Shift warehouse priority to expand inventory lines with **GigaMall**, leveraging their highly efficient markup structures to expand overall profit returns.
-3. **Deploy Target-Specific Regional Supply:** Shift hardware logistics to directly feed high-demand areas. Specifically, increase Phone allocations in the West and South regions, and audit the missing Monitor sales pipeline in the North.
-4. **Reassess DataHub Pricing Policies:** Audit the commercial strategy for DataHub offerings. Their current 8.56% and 18.75% margins limit potential; slight increases in pricing strategy could unlock significant revenue across their large 154-stock footprint.
+1. **TechSource**: Review product pricing and procurement costs to address losses. Consider removing underperforming items or negotiating better purchase terms to improve margins.
+2. **DataHub**: Reassess product pricing strategies — current margins suggest strong potential for scaling. Expanding their presence could increase total profit without significant risk.
+3. **ElectroPro**: Conduct a detailed review of marketing and sales performance to identify why their products underperform. Exploring other product lines from this supplier could yield better returns.
+4. **GigaMall**: Maintain current strategies — performance is efficient. Future monitoring should focus on sustaining margins as sales volume grows.
+**Overall Strategy**: Incorporate regular profit-margin analysis by supplier to identify early warning signs of loss and ensure optimized inventory investment.
+
