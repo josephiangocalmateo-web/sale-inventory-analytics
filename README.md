@@ -43,13 +43,8 @@ This analytical framework audits two primary business ecosystems to identify str
 
 #### Complete Supplier Performance Matrix
 
-| Supplier | Total SKUs | Total Stocks Managed | Profit Contribution | Profit Share % |
-| :--- | :---: | :---: | :---: | :---: |
-| **TechSource** | 5 | 306 | $94,333 | 38.55% |
-| **GigaMall** | 2 | 84 | $75,678 | 30.93% |
-| **ElectroPro** | 1 | 48 | $58,272 | 23.82% |
-| **DataHub** | 2 | 154 | $16,401 | 6.70% |
-| **Grand Totals** | **10** | **592** | **$244,684** | **100.00%** |
+<img width="1322" height="297" alt="image" src="https://github.com/user-attachments/assets/373894e6-d169-4bbd-a714-b980d864eb6b" />
+
 
 <img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/b7ae0935-ddf0-4b2e-985d-fb66eddf0235" />
 <img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/21b2d987-f75e-4616-97a1-e9eb0620ab04" />
