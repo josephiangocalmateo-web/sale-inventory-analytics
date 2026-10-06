@@ -31,7 +31,8 @@ This analytical framework audits two primary business ecosystems to identify str
 | **West** | $20,466 | $23,762 | $5,816 | $39,418 | $3,306 | **$92,768** |
 | **Grand Total** | **$60,027** | **$48,174** | **$49,562** | **$97,588** | **$50,970** | **$306,321** |
 
----
+<img width="768" height="393" alt="image" src="https://github.com/user-attachments/assets/5e36d1ab-3e38-46e0-916a-45d6b5dea259" />
+
 
 ### 📦 Module B: Supply Chain Logistics & Margin Analysis
 * **The Baseline:** Details inventory metrics across **592 pieces of stock** distributed among **4 core vendors**, capturing a total projected profit pool of **$244,684**.
@@ -50,7 +51,10 @@ This analytical framework audits two primary business ecosystems to identify str
 | **DataHub** | 2 | 154 | $16,401 | 6.70% |
 | **Grand Totals** | **10** | **592** | **$244,684** | **100.00%** |
 
----
+<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/b7ae0935-ddf0-4b2e-985d-fb66eddf0235" />
+<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/21b2d987-f75e-4616-97a1-e9eb0620ab04" />
+
+
 
 ## 🚀 3. Strategic Action Plan
 
