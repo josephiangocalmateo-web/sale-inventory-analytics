@@ -43,9 +43,7 @@ This analytical framework audits two primary business ecosystems to identify str
 
 #### Complete Supplier Performance Matrix
 
-<img width="1322" height="297" alt="image" src="https://github.com/user-attachments/assets/373894e6-d169-4bbd-a714-b980d864eb6b" />
-
-
+<img width="1145" height="261" alt="image" src="https://github.com/user-attachments/assets/d9d8e58c-7d0f-4d6f-bce5-5d753e6bcbef" />
 <img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/b7ae0935-ddf0-4b2e-985d-fb66eddf0235" />
 <img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/21b2d987-f75e-4616-97a1-e9eb0620ab04" />
 
