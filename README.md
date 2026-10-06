@@ -1,6 +1,6 @@
 # Corporate Commercial Performance & Supply Chain Inventory Analytics
 
-**Tools Used:** Microsoft Excel (Pivot Tables, Cross-Dataset Matrixing, Pricing Audits, Regional Demand Vectors)
+**Tools Used:** Microsoft Excel (Pivot Tables, Charts, Arithmetic Formulas)
 
 ---
 
